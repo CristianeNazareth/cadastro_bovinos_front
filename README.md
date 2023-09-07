@@ -1,78 +1,75 @@
 # CADASTRO DE BOVINOS LEITEIROS
 
-A aplicação cadastra Bovinos através de um formulário que envia os dados para o Banco e faz requisições e espera respostas fazendo buscas por algum bovino por nome ou brinco específico.
+<p align="center">A aplicação cadastra Bovinos através de um formulário que envia os dados para o Banco e faz requisições e espera respostas fazendo buscas por algum bovino por nome ou brinco específico.</p>
+
+---
+
+## Intruções de Uso
 
 
-# Getting Started with Create React App
+O projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
 
+1. Clone o repositório, acessando no terminal git clone <https://github.com/CristianeNazareth/cadastro_bovinos_front>
+2. Verifique se ja possui node instalado `node -v`, senão [site oficial do Node.js](https://nodejs.org/)
+3. Execute ` npm install` para instalar as dependências.
+4. Inicie o servidor React com `npm start`. O react está rodando na porta [http://localhost:3001](http://localhost:3001).
+
+---
+## Dependẽncias
+
+- npm 9.7.2
+- node v18.13.0
+
+---
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- HTML5
+- CSS3
+- JS
+- [Teste de Api](https://www.postman.com/)
+- [React](https://pt-br.reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [CORS](https://expressjs.com/en/resources/middleware/cors.html)
 
 
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tabela de conteúdos
+=================
 
-## Available Scripts
+<p align="center">
+ <a href="#-cadastro-de-bovinos-">Sobre</a> •
+ <a href="#-instrucoes-de-uso">Instruções de Uso</a> • 
+ <a href="#-dependencias"> Dependẽncias</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autora">Autora</a> • 
+</p>
 
-In the project directory, you can run:
-
-### `npm start`
-
-O React está rodando na porta
- [http://localhost:3001](http://localhost:3001) .
+---
 
 
+<h4 align="center"> 
+	🚧  React Select 🚀 Ainda da para fazer melhorias  🚧
+</h4>
 
-### `npm test`
+---
+#### Autora
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Cristiane Nazaret Assunção
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📝 Licença
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Feito com ❤️ por Cristiane Assunção 👋🏽 [Entre em contato!](https://www.linkedin.com/in/cristiane-nazareth-dev/)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+##  Versões do README
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Português 🇧🇷](./README.md) 
