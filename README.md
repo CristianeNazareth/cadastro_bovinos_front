@@ -16,7 +16,7 @@ O projeto foi iniciado com [Create React App](https://github.com/facebook/create
 4. Inicie o servidor React com `npm start`. O react está rodando na porta [http://localhost:3001](http://localhost:3001).
 
 ---
-## Dependẽncias
+## Dependências
 
 - npm 9.7.2
 - node v18.13.0
@@ -43,7 +43,7 @@ Tabela de conteúdos
 <p align="center">
  <a href="#-cadastro-de-bovinos-">Sobre</a> •
  <a href="#-instrucoes-de-uso">Instruções de Uso</a> • 
- <a href="#-dependencias"> Dependẽncias</a> • 
+ <a href="#-dependencias"> Dependências</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autora">Autora</a> • 
 </p>

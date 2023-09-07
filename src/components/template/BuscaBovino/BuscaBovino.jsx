@@ -38,16 +38,16 @@ const BuscaBovino = () => {
   };
 
   return (
-    <div>
-      <span className="titulo-busca">Buscar Bovino</span>
-      <form>
-        <label className="titulo-entrada">Digite Nome ou Brinco:
+    <div className="conteudo">
+      <span className="titulo_busca">Buscar Bovino</span>
+      <form className="conteudo_busca" >
+        <label className="titulo_entrada">Digite Nome ou Brinco:
           <input className="entrada_campo" type="text" value={buscaTermo} maxLength={20} placeholder="Nome ou Brinco" onChange={(e) => setBuscaTermo(e.target.value)} />
         </label>
         <ButtonBusca onClick={buscarBovino} />
       </form>
 
-      <h3 className="titulo-busca" >Resultado da Busca</h3>
+      <h3 className="titulo_busca" >Resultado da Busca</h3>
       {buscou && bovinosFiltrados.length === 0 && (
         <p className="paragrafo" >Nenhum bovino encontrado.</p>
       )}
