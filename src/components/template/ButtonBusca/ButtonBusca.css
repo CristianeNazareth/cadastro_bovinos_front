@@ -1,0 +1,19 @@
+
+.buscar_campo:hover {
+  background-color: #e0ebf7;
+  border-color: none;
+}
+.busca_campo {
+  color: #0d6486;
+  width: 20%;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0.7rem 0.7rem;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}

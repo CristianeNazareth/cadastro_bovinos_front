@@ -1,0 +1,18 @@
+.cadastrar:hover {
+  background-color: #e0ebf7;
+  border-color: none;
+}
+.cadastrar {
+  color: #0d6486;
+  width: 98%;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 0.7rem 1.1rem;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}

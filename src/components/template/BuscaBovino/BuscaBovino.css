@@ -1,0 +1,58 @@
+.conteudo_campo {
+  padding-left: 20px;
+  margin-bottom: 50px;
+}
+.texto {
+  font-size: 1.3rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.titulo {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+.entrada_campo {
+  width: 20%;
+  padding: 0.7rem 0.7rem;
+  margin: 15px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+.titulo-busca {
+  font-size: 1.6rem;
+  padding-left: 20px;
+  font-weight: bold;
+}
+.titulo-entrada {
+  font-size: 1.4rem;
+  padding-left: 20px;
+}
+.paragrafo {
+  padding-left: 20px;
+
+}
+
+/* CSS da Tabela ################## */
+.conteudo_tabela {
+  border: var(--borda-direita-baixo);
+  margin-bottom: 5rem;
+  align-items: center;
+  margin: auto;
+  margin: 5rem;
+  border-collapse: collapse;
+  width: 90%;
+}
+.tabela_linha,
+.tabela_celula {
+  border-bottom: var(--borda-direita-baixo);
+  border-right: var(--borda-direita-baixo);
+  padding: 8px;
+  text-align: left;
+}
+.tabela_cabecalho {
+  background-color: var(--bg-fundo);
+  border-bottom: var(--borda-direita-baixo);
+  border-right: var(--borda-direita-baixo);
+}
