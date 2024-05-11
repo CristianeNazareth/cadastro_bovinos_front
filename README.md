@@ -2,6 +2,9 @@
 
 <p align="center">A aplicação cadastra Bovinos através de um formulário que envia os dados para o Banco e faz requisições e espera respostas fazendo buscas por algum bovino por nome ou brinco específico.</p>
 
+[![Video-Demonstração-Bovinos](URL_DA_IMAGEM_DE_CAPA)](https://youtu.be/p6XsN-ABdCA)
+
+
 ---
 
 ## Intruções de Uso
