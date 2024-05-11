@@ -3,20 +3,14 @@
 <p align="center">A aplicação cadastra Bovinos através de um formulário que envia os dados para o Banco e faz requisições e espera respostas fazendo buscas por algum bovino por nome ou brinco específico.</p>
 
 
-<video width="640" height="360" controls>
-  <source src=".github/Video-Demonstração-Bovinos.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-
+[![Clique para reproduzir](.github/preview.png)](https://www.youtube.com/watch?v=p6XsN-ABdCA)
 
 ---
 
 ## Intruções de Uso
 
-
 O projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
-
 
 1. Clone o repositório, acessando no terminal git clone <https://github.com/CristianeNazareth/cadastro_bovinos_front>
 2. Verifique se ja possui node instalado `node -v`, senão [site oficial do Node.js](https://nodejs.org/)
@@ -24,12 +18,14 @@ O projeto foi iniciado com [Create React App](https://github.com/facebook/create
 4. Inicie o servidor React com `npm start`. O react está rodando na porta [http://localhost:3001](http://localhost:3001).
 
 ---
+
 ## Dependências
 
 - npm 9.7.2
 - node v18.13.0
 
 ---
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -42,11 +38,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [CORS](https://expressjs.com/en/resources/middleware/cors.html)
 
-
 ---
 
-Tabela de conteúdos
-=================
+# Tabela de conteúdos
 
 <p align="center">
  <a href="#-cadastro-de-bovinos-">Sobre</a> •
@@ -58,12 +52,12 @@ Tabela de conteúdos
 
 ---
 
-
 <h4 align="center"> 
 	🚧  React Select 🚀 Ainda da para fazer melhorias  🚧
 </h4>
 
 ---
+
 #### Autora
 
 Cristiane Nazaret Assunção
@@ -78,6 +72,6 @@ Feito com ❤️ por Cristiane Assunção 👋🏽 [Entre em contato!](https://w
 
 ---
 
-##  Versões do README
+## Versões do README
 
-[Português 🇧🇷](./README.md) 
+[Português 🇧🇷](./README.md)
